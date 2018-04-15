@@ -26,6 +26,7 @@ namespace Balanced_Ternary
 		}
 
 		//zamienia dziesiętnego inta do zbalansowanego trójkowego
+
 		public string dek_to_bater(int n)
 		{
 			string b = "";
