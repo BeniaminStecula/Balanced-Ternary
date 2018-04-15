@@ -1,0 +1,7 @@
+C:\Users\Lordo\OneDrive\STUDIA\Różne\Programy\Balanced-Ternary\Balanced-Ternary\Balanced-Ternary\bin\Debug\Balanced-Ternary.exe.config
+C:\Users\Lordo\OneDrive\STUDIA\Różne\Programy\Balanced-Ternary\Balanced-Ternary\Balanced-Ternary\bin\Debug\Balanced-Ternary.exe
+C:\Users\Lordo\OneDrive\STUDIA\Różne\Programy\Balanced-Ternary\Balanced-Ternary\Balanced-Ternary\bin\Debug\Balanced-Ternary.pdb
+C:\Users\Lordo\OneDrive\STUDIA\Różne\Programy\Balanced-Ternary\Balanced-Ternary\Balanced-Ternary\obj\Debug\Balanced-Ternary.csprojResolveAssemblyReference.cache
+C:\Users\Lordo\OneDrive\STUDIA\Różne\Programy\Balanced-Ternary\Balanced-Ternary\Balanced-Ternary\obj\Debug\Balanced-Ternary.csproj.CoreCompileInputs.cache
+C:\Users\Lordo\OneDrive\STUDIA\Różne\Programy\Balanced-Ternary\Balanced-Ternary\Balanced-Ternary\obj\Debug\Balanced-Ternary.exe
+C:\Users\Lordo\OneDrive\STUDIA\Różne\Programy\Balanced-Ternary\Balanced-Ternary\Balanced-Ternary\obj\Debug\Balanced-Ternary.pdb
